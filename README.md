@@ -1,7 +1,7 @@
 Welcome to My Time
 
 You can use the [editor on GitHub](https://github.com/ncarr01/test2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+<style> } Background
 .feedback-button {
   display: inline-block;
   -webkit-box-sizing: content-box;
@@ -59,6 +59,7 @@ You can use the [editor on GitHub](https://github.com/ncarr01/test2/edit/master/
   background-clip: border-box;
   -webkit-background-size: auto auto;
   background-size: auto auto;
-  -webkit-box-shadow: 0 5px 0 0 rgba(178,49,49,1) ;
+  -webkit-box-shadow: 0 5px 0 0 rgba(178,49,49,1) ;{
+  </style>
   box-shadow: 0 5px 0 0 rgba(178,49,49,1) ;
 }
